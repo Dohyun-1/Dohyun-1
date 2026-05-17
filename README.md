@@ -1,36 +1,13 @@
-<div align="center">
+ <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=60&duration=2500&pause=800&color=00C896&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Dohyun"
-   alt="Dohyun" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=60&duration=2500&pause=999999&color=000000&center=true&vCenter=true&repeat=false&width=700&height=90&lines=H
+  i%2C+I'm+Dohyun" alt="Dohyun" />
 
   </div>
 
   ---
 
-  ### 💼 Repositories
-
-  <table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Category</th>
-  </tr>
-  <tr>
-    <td><b>broisinvesting</b></td>
-    <td>Newsletter · Content</td>
-  </tr>
-  <tr>
-    <td><b>CelebBase Wellness</b></td>
-    <td>B2C Platform · Web</td>
-  </tr>
-  <tr>
-    <td><b>Stock-App</b></td>
-    <td>Finance · Data</td>
-  </tr>
-  <tr>
-    <td><b>dhryu-portfolio</b></td>
-    <td>Personal Site</td>
-  </tr>
-  </table>
+  <div align="center">
 
   ### 🛠 Tech Stack
 
@@ -42,7 +19,7 @@
     <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00C896" />
   </p>
 
-  ### 📊 Market Activity
+  ### 📊 GitHub Activity
 
   <p>
     <img src="https://streak-stats.demolab.com/?user=Dohyun-1&theme=dark&hide_border=true&background=0D1117&ring=00C896&fire=FF8C00&currStreakLabel=00C896" />
@@ -59,3 +36,5 @@
   > *"The stock market is a device for transferring money from the impatient to the patient."*
   >
   > — **Warren Buffett**
+
+  </div>
