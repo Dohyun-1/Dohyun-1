@@ -1,6 +1,7 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=00C896&height=200&section=header&text=Dohyun&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=55" alt="Dohyun" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00C896&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=55&fontColor=000000&animation=fadeIn&fontAlignY=55" 
+  alt="Welcome to my Github" />
 
   # Hi 👋 I'm Dohyun
 
@@ -32,10 +33,6 @@
 
   <p>
     <img src="https://streak-stats.demolab.com/?user=Dohyun-1&theme=default&hide_border=true&background=FFFFFF&ring=00C896&fire=FF8C00&currStreakLabel=00C896" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dohyun-1&bg_color=FFFFFF&color=000000&line=00C896&point=FF8C00&area=true&hide_border=true" />
   </p>
 
   ---
