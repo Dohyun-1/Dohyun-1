@@ -1,10 +1,8 @@
  <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=55&pause=1000&color=00C896&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Hi%2C+I'm+Dohyun;%F0%9F%9
-  1%8B+Welcome+to+my+profile" alt="Hi I'm Dohyun" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00C896&height=200&section=header&text=Dohyun&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=55" alt="Dohyun" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=666666&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Finance+%C3%97+Marketing
-  +%C3%97+Sports" alt="subtitle" />
+  # Hi 👋 I'm Dohyun
 
   </div>
 
