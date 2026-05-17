@@ -1,7 +1,9 @@
-<div align="center">
+div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=80&duration=2500&pause=999999&color=000000&center=true&vCenter=true&repeat=false&width=900&height=120&lines=
-  Hi%2C+I%27m+Dohyun" alt="Hi, I'm Dohyun" />
+  # Hi, I'm Dohyun
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=00C896&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Web+%C3%97+Data+%C3%97+C
+  apital" alt="subtitle" />
 
   </div>
 
