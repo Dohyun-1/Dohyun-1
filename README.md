@@ -1,7 +1,7 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=60&duration=2500&pause=999999&color=000000&center=true&vCenter=true&repeat=false&width=700&height=90&lines=H
-  i%2C+I'm+Dohyun" alt="Dohyun" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=60&duration=2500&pause=800&color=000000&center=true&vCenter=true&repeat=false&width=700&height=90&lines=Hi%2
+  C+I'm+Dohyun" alt="Dohyun" />
 
   </div>
 
